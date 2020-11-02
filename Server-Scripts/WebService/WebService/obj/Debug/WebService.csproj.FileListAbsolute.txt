@@ -1,0 +1,41 @@
+c:\users\administrator\source\repos\WebService\WebService\bin\Debug\WebService.exe.config
+c:\users\administrator\source\repos\WebService\WebService\bin\Debug\WebService.exe
+c:\users\administrator\source\repos\WebService\WebService\bin\Debug\WebService.pdb
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.Properties.Resources.resources
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.exe
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.pdb
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.WbeService.resources
+c:\users\administrator\source\repos\WebService\WebService\bin\Debug\MySql.Data.dll
+c:\users\administrator\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.MainForm.resources
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.Menu1.resources
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.Menu2.resources
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.MenuForm.resources
+C:\Users\Administrator\source\repos\WebService\WebService\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.FormHome.resources
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.CheckConn.resources
+C:\Users\Administrator\source\repos\WebService\WebService\obj\Debug\WebService.Database.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\WebService.exe.config
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\WebService.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.CheckConn.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.Database.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.FormHome.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.MainForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.Menu1.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.Menu2.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.MenuForm.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.WbeService.resources
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.exe
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\新建文件夹 (2)\source\repos\WebService\WebService\bin\Debug\MySql.Data.xml
